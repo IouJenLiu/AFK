@@ -1,0 +1,20 @@
+---
+env: BabyAI-DangerOpenDoorObjInBox-v0
+decrease_bonus: True
+discount: 0.95
+arch: 'endpool_res'
+query: True
+bin_entropy_coef: 0.05
+kg_wrapper: True
+cc_bonus: 0.1
+kg_repr: 'raw'
+lr: 1.0e-4
+frames: 30000000
+invariant_module: 'gcn_max'
+gcn_adj_type: 'no_connect'
+query_arch: 'pointer'
+kg_mode: 'graph_overlap'
+n_gram: 1
+note: 'Ours_Set'
+
+
