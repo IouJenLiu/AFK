@@ -1,0 +1,7 @@
+@inproceedings{AFK2022,
+  author = {Iou-Jen Liu$^\ast$ and Xingdi Yuan$^\ast$ and Marc-Alexandre C\^{o}t\'{e}$^\ast$ and Pierre-Yves Oudeyer and Alexander G. Schwing},
+  title = {Asking for Knowledge: Training RL Agents to Query External Knowledge Using Language},
+  booktitle = {arXiv.},
+  year = {2022},
+  note = {$^\ast$ equal contribution}
+}
