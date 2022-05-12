@@ -23,7 +23,7 @@ pip install --editable .
 
 
 # Usage
-To reproduce the AFK results on all Q-BabyAI tasks, the ablation study, and the generalization study, please run the following:
+To train the AFK agent on Q-BabyAI, please run the following:
 ```shell
 cd run
 sh afk_qbabyai.sh
